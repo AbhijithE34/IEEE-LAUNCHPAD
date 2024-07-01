@@ -27,11 +27,11 @@
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- In the immediate term, I plan to join a reputable company where I can leverage my skills and contribute to innovative projects. By collaborating with talented professionals, I aim to gain valuable experience and insights. In the longer term, I aspire to take on leadership roles and drive initiatives that support and mentor emerging startups. By fostering a culture of innovation and collaboration, I aim to contribute significantly to elevating the Kerala Startup Ecosystem to new heights.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- In the immediate term, I plan to join a reputable company where I can leverage my skills and contribute to innovative projects. By collaborating with talented professionals, I aim to gain valuable experience and insights. In the longer term, I aspire to take on leadership roles and drive initiatives that support and mentor emerging startups. By fostering a culture of innovation and collaboration, I aim to contribute significantly to elevating the Kerala Startup Ecosystem to new heights.
+- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups. Collaboration between academia, government, and industry will be key to achieving this vision. The state’s rich talent pool from numerous engineering colleges and a growing culture of innovation, supported by active tech communities and events, fosters collaboration and learning. With strong government initiatives like the Kerala Startup Mission (KSUM) providing resources and mentorship, and significant strides in emerging technologies like AI, blockchain, and IoT driven by institutions such as the Kerala Blockchain Academy and Maker Village, Kerala is well-positioned for future success.
 
 #### History of Open Source Contributions:
 
